@@ -1,4 +1,4 @@
 <Response>
-	<Say voice="alice">Fuck You!</Say>
-	<Play>https://raw.githubusercontent.com/KorruptedKlipz/CallFlooderMp3/main/Rick%20Astley%20-%20Never%20Gonna%20Give%20You%20Up%20(Video).mp3</Play>
+	<Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
+	<Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
